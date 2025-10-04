@@ -1,0 +1,35 @@
+{
+  "positions": {
+    "3HfLqhtF5hR5dyBXh6BMtRaTm9qzStvEGuMa8Gx6pump": {
+      "amount": 0.01,
+      "entryPrice": 0.0017,
+      "timestamp": 1727971200000,
+      "buySignature": "62vfYAeQhDfDBt3e9QvytzNqDnntcw8oF5nc6xo5q91bdaxPmQeh5XB4gxsCmmKB56CWqWru1Jyq3vJi2ksQ4Efw",
+      "currentPrice": 0.001694,
+      "highestPrice": 0.001731
+    },
+    "m7ARwBrrDXmuQ5CgjEKiUu2nMrRRszk1embv3nmpump": {
+      "amount": 0.01,
+      "entryPrice": 0.00000826,
+      "timestamp": 1759534633006,
+      "buySignature": "2anhrS2APyaL7KHCPyVCLukRcJ2vqTXKbMNr33kzEaMMru7oEhuch5yG1ZQgDRHGUF889w88UEdFkSLMcTFAak7o",
+      "currentPrice": 0.000008205,
+      "highestPrice": 0.00000826
+    },
+    "5rbj7CbUsmxZX1a7kyunoz7jwiDubmjXXBccsBMuFk6U": {
+      "amount": 0.01,
+      "entryPrice": 0.0001101,
+      "timestamp": 1759545301749,
+      "buySignature": "4o1C1BxX4UNxcRCJSbDNA5kLJWfPFkX5WJzj7G7Ly7WE5smwTM6kvSFuQ5P64m2EMitXjypfJGYLJiRM8T4mHY3U",
+      "currentPrice": 0.0001105,
+      "highestPrice": 0.0001105
+    }
+  },
+  "stats": {
+    "totalProfit": 0.0028100000000000004,
+    "totalTrades": 3,
+    "wins": 1,
+    "losses": 0
+  },
+  "lastSaved": "2025-10-04T02:37:29.712Z"
+}
