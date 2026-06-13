@@ -1,19 +1,14 @@
 {
-  "name": "solana-trading-bot",
+  "name": "dropviral-launch-lander",
   "version": "1.0.0",
-  "description": "Solana meme coin trading bot with monitoring and auto-trading",
+  "description": "Mobile-first DropViral AI product showcase landing page",
   "main": "server.js",
   "scripts": {
-    "start": "bash start.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "@solana/web3.js": "^1.98.4",
-    "bs58": "^6.0.0",
-    "node-fetch": "^3.3.2",
-    "ws": "^8.18.3"
+    "start": "node server.js",
+    "test": "node scripts/check-site.js"
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "license": "UNLICENSED"
 }
