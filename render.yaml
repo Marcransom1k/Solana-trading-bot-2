@@ -1,16 +1,14 @@
 services:
   - type: web
-    name: solana-trading-bot
+    name: dropviral-launch-lander
     env: node
     region: oregon
     plan: free
-    buildCommand: npm install
-    startCommand: node solana_monitor_bot.js & node trading_bot_local.js
+    buildCommand: npm ci
+    startCommand: npm start
     healthCheckPath: /
     envVars:
       - key: NODE_ENV
         value: production
-    disk:
-      name: bot-data
-      mountPath: /data
-      sizeGB: 1
+      - key: PORT
+        value: 3000
